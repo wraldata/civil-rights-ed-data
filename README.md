@@ -21,7 +21,7 @@ To calculate the enrollment, suspensions and arrests of all students, black stud
 
 **Arrests per 10,000 black students** is calculated by dividing the number of black student arrests by black student enrollment, per 10,000 black students.
 
-**Arrest rate factor** is calculated by dividing the Suspensions per 1,000 black students by Suspensions per 1,000 white students.
+**Arrest rate factor** is calculated by dividing the Arrests per 10,000 black students by Arrests per 10,000 white students.
 
 ### Get the current data
 * [Original 2015-16 CRDC data from the U.S. Department of Education (34mb ZIP file)](https://www2.ed.gov/about/offices/list/ocr/docs/2015-16-crdc-data.zip)
